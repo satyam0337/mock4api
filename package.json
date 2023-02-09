@@ -1,13 +1,16 @@
 {
-  "name": "testapi",
+  "name": "mock4",
   "version": "1.0.0",
-  "description": "testapi",
+  "description": "",
   "main": "index.js",
-  
-  "keywords": [],
-  "author": "abdul",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+   "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.1"
   }
 }
