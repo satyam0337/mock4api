@@ -2,7 +2,7 @@
   "name": "testapi",
   "version": "1.0.0",
   "description": "testapi",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js" 
   },
