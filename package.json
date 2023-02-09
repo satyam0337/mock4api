@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "testapi",
   "main": "index.js",
-  
+   "scripts": {
+    "start": "node index.js"
+  },
   "keywords": [],
   "author": "abdul",
   "license": "ISC",
